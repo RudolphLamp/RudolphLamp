@@ -1,1 +1,1 @@
-<h1 align="center">Hello world 👋, I'm Rudolph Lamprecht</h1>
+<h1 align="center">RL</h1>
